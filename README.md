@@ -1,20 +1,20 @@
 # Automated-Slide-Transition
 Uses raspberry pi3 and ultrasonic sensor
 
->>  Requirements :
+#  Requirements :
 1.Raspberry pi3
 2.Ultrasonic sensor
 3.bread board
 4.jumper wires
 5.resistors
 
->> Libraries Used (python)
+# Libraries Used (python)
  1.pyautogui
  2.socket
  3.RPI.GPIO
  4.pyautogui
  
->> Installation of pyautogui : 
+# Installation of pyautogui : 
 
    On Windows, this is:
 
@@ -33,7 +33,7 @@ Uses raspberry pi3 and ultrasonic sensor
     pip3 install pyautogui
     
     
-
+#Execution
 first connect your pc and raspberry to same network.
 then execute Server.py on your PC which will act as server.
 
