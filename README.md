@@ -18,19 +18,19 @@ Uses raspberry pi3 and ultrasonic sensor
 
    On Windows, this is:
 
-      C:\Python34\pip.exe install pyautogui
+       C:\Python34\pip.exe install pyautogui
       
    On Linux, this is:
 
-    pip3 install python3-xlib
+       pip3 install python3-xlib
 
-    sudo apt-get install scrot
+       sudo apt-get install scrot
 
-    sudo apt-get install python3-tk
+       sudo apt-get install python3-tk
 
-    sudo apt-get install python3-dev
+       sudo apt-get install python3-dev
 
-    pip3 install pyautogui
+       pip3 install pyautogui
     
     
 #Execution
